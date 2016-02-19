@@ -10,6 +10,10 @@ import os
 import fnmatch
 
 
+#sign addons with JWT
+#needs to be fixed
+#better script is https://github.com/jasonthomas/sign-addon/blob/master/sign.py
+
 def generate_token(pvt_key, secret, valid_for=3600, algorithm=ALGORITHMS.HS256):
     #generate JWT token
     jti = str(random.random())

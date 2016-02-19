@@ -1,0 +1,10 @@
+firebug-1.12.4-fx.xpi
+firebug-2.0.1-fx.xpi
+firebug-2.0.6.xpi
+jetpack-extension.xpi
+packed-extension.xpi
+png-extension.xpi
+preliminary_bootstrap_2.xpi
+test_bug526598_1.xpi
+test_bug526598_2.xpi
+test_bug541420.xpi
